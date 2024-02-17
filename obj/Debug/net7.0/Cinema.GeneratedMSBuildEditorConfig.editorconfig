@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cinema
+build_property.RootNamespace = Cinema
+build_property.ProjectDir = C:\Unipi\Συγχρονα_θεματα\Ergasia MVC 2024 - New\3h ergasia\Cinema_v4\Cinema\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Unipi\Συγχρονα_θεματα\Ergasia MVC 2024 - New\3h ergasia\Cinema_v4\Cinema
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Admin/CreateContentAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlQ29udGVudEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Admin/DeleteContentAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlQ29udGVudEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Admin/ShowAllContentAdmins.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd0FsbENvbnRlbnRBZG1pbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/ContentAdmin/AddNewMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudEFkbWluXEFkZE5ld01vdmllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/ContentAdmin/AddNewScreening.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudEFkbWluXEFkZE5ld1NjcmVlbmluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/ContentAdmin/DeleteScreening.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudEFkbWluXERlbGV0ZVNjcmVlbmluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/ContentAdmin/EditScreening.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudEFkbWluXEVkaXRTY3JlZW5pbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/ContentAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudEFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/ContentAdmin/ShowAllMovies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudEFkbWluXFNob3dBbGxNb3ZpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/ContentAdmin/ShowScreenings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudEFkbWluXFNob3dTY3JlZW5pbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Customer/BookingHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQm9va2luZ0hpc3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Customer/BookTicket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQm9va1RpY2tldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Customer/ShowAvailableMovies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcU2hvd0F2YWlsYWJsZU1vdmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/_StartPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1N0YXJ0UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Unipi/Συγχρονα_θεματα/Ergasia MVC 2024 - New/3h ergasia/Cinema_v4/Cinema/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2pfaoicsxw
